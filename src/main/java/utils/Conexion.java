@@ -5,7 +5,7 @@ import java.sql.SQLException;
 
 public class Conexion {
     // Declaramos y inicializamos los parámetros para la conexión a la base de datos
-    private static String url = "jdbc:mysql://localhost:3306/carrito?useTimezone=true&serverTimezone=UTC";
+    private static String url = "jdbc:mysql://localhost:3306/ejemplocarro?useTimezone=true&serverTimezone=UTC";
     private static String username = "root";
     private static String password = "";
 
